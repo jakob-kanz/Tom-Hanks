@@ -5,5 +5,6 @@ This project explores Tom Hanks' acting career using exploratory data analysis. 
   - Data Cleaning
   - Exploratory Data Analysis
   - Data Visualisation
+  - Communication through a project report
   
 You can find the project report in the file 'omdb API project.ipynb' above.
